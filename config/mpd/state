@@ -1,0 +1,27 @@
+sw_volume: 100
+audio_device_state:1:PipeWire Output
+audio_device_state:1:my_fifo
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:linkin park - hybrid theory - papercut.mp3
+1:Breaking the Habit (Official Music Video) [HD UPGRADE] – Linkin Park(M4A_128K).m4a
+2:CASTLE OF GLASS [Official Music Video] - Linkin Park(M4A_128K).m4a
+3:Faint (Official Music Video) [4K UPGRADE] – Linkin Park(MP3_160K).mp3
+4:Given Up [Official Music Video] - Linkin Park(MP3_160K).mp3
+5:In The End [Official HD Music Video] - Linkin Park(M4A_128K).m4a
+6:Linkin Park - Lying From You (Official Audio)(MP3_160K).mp3
+7:New Divide [Official Music Video] - Linkin Park(MP3_160K).mp3
+8:Numb (Official Music Video) [4K UPGRADE] – Linkin Park(MP3_160K).mp3
+9:Shadow Of The Day [Official Music Video] - Linkin Park(M4A_128K).m4a
+10:Somewhere I Belong (Official Music Video) [4K UPGRADE] – Linkin Park(MP3_160K).mp3
+11:What I_ve Done [Official Music Video] - Linkin Park(MP3_160K).mp3
+playlist_end

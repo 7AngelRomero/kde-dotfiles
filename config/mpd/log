@@ -1,0 +1,368 @@
+2026-04-03T01:10:04 exception: Failed to open "/home/justblind/.config/mpd/state": No such file or directory
+2026-04-03T01:10:04 exception: Failed to access /home/justblind/Music: No such file or directory
+2026-04-03T02:57:05 exception: Failed to commit /home/justblind/.config/mpd/state: File exists
+2026-04-03T02:57:05 exception: Failed to commit /home/justblind/.config/mpd/state: File exists
+2026-04-03T02:57:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x1.
+2026-04-03T02:57:27 update: added /Breaking the Habit (Official Music Video) [HD UPGRADE] – Linkin Park(M4A_128K).m4a
+2026-04-03T02:57:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x1.
+2026-04-03T02:57:28 update: added /CASTLE OF GLASS [Official Music Video] - Linkin Park(M4A_128K).m4a
+2026-04-03T02:57:28 update: added /Faint (Official Music Video) [4K UPGRADE] – Linkin Park(MP3_160K).mp3
+2026-04-03T02:57:28 update: added /Given Up [Official Music Video] - Linkin Park(MP3_160K).mp3
+2026-04-03T02:57:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x1.
+2026-04-03T02:57:28 update: added /In The End [Official HD Music Video] - Linkin Park(M4A_128K).m4a
+2026-04-03T02:57:28 update: added /linkin park - hybrid theory - papercut.mp3
+2026-04-03T02:57:28 update: added /Linkin Park - Lying From You (Official Audio)(MP3_160K).mp3
+2026-04-03T02:57:28 update: added /Linkin Park - Roads Untraveled [Lyrics on screen] .mp3
+2026-04-03T02:57:28 update: added /New Divide [Official Music Video] - Linkin Park(MP3_160K).mp3
+2026-04-03T02:57:28 update: added /Numb (Official Music Video) [4K UPGRADE] – Linkin Park(MP3_160K).mp3
+2026-04-03T02:57:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x1.
+2026-04-03T02:57:28 update: added /Shadow Of The Day [Official Music Video] - Linkin Park(M4A_128K).m4a
+2026-04-03T02:57:28 update: added /Somewhere I Belong (Official Music Video) [4K UPGRADE] – Linkin Park(MP3_160K).mp3
+2026-04-03T02:57:28 update: added /Step Up - Linkin Park.mp3
+2026-04-03T02:57:28 update: added /What I_ve Done [Official Music Video] - Linkin Park(MP3_160K).mp3
+2026-04-03T02:57:49 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:01:25 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:01:28 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:01:29 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:01:30 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:02:09 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:02:21 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:06:15 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:06:22 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:07:51 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:07:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x1.
+2026-04-03T03:08:14 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:08:14 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:08:15 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:08:18 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:08:19 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:08:32 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:08:33 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:08:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x1.
+2026-04-03T03:09:03 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:09:03 exception: Failed to open /home/justblind/Música/playlists: No such file or directory
+2026-04-03T03:10:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x1.
+2026-04-03T03:12:19 player: played "In The End [Official HD Music Video] - Linkin Park(M4A_128K).m4a"
+2026-04-03T03:20:38 client: Max connections reached
+2026-04-03T03:20:38 client: Max connections reached
+2026-04-03T03:20:40 client: Max connections reached
+2026-04-03T03:20:41 client: Max connections reached
+2026-04-03T03:20:42 client: Max connections reached
+2026-04-03T03:20:43 client: Max connections reached
+2026-04-03T03:20:44 client: Max connections reached
+2026-04-03T03:20:45 client: Max connections reached
+2026-04-03T03:20:46 client: Max connections reached
+2026-04-03T03:20:47 client: Max connections reached
+2026-04-03T03:20:48 client: Max connections reached
+2026-04-03T03:20:49 client: Max connections reached
+2026-04-03T03:20:50 client: Max connections reached
+2026-04-03T03:20:51 client: Max connections reached
+2026-04-03T03:20:52 client: Max connections reached
+2026-04-03T03:20:53 client: Max connections reached
+2026-04-03T03:20:54 client: Max connections reached
+2026-04-03T03:20:55 client: Max connections reached
+2026-04-03T03:20:56 client: Max connections reached
+2026-04-03T03:20:57 client: Max connections reached
+2026-04-03T03:20:59 client: Max connections reached
+2026-04-03T03:21:00 client: Max connections reached
+2026-04-03T03:21:01 client: Max connections reached
+2026-04-03T03:21:02 client: Max connections reached
+2026-04-03T03:21:03 client: Max connections reached
+2026-04-03T03:21:04 client: Max connections reached
+2026-04-03T03:21:05 client: Max connections reached
+2026-04-03T03:21:06 client: Max connections reached
+2026-04-03T03:21:07 client: Max connections reached
+2026-04-03T03:21:08 client: Max connections reached
+2026-04-03T03:21:09 client: Max connections reached
+2026-04-03T03:21:10 client: Max connections reached
+2026-04-03T03:21:11 client: Max connections reached
+2026-04-03T03:21:12 client: Max connections reached
+2026-04-03T03:21:13 client: Max connections reached
+2026-04-03T03:21:14 client: Max connections reached
+2026-04-03T03:21:15 client: Max connections reached
+2026-04-03T03:21:16 client: Max connections reached
+2026-04-03T03:21:17 client: Max connections reached
+2026-04-03T03:21:18 client: Max connections reached
+2026-04-03T03:21:19 client: Max connections reached
+2026-04-03T03:21:20 client: Max connections reached
+2026-04-03T03:21:21 client: Max connections reached
+2026-04-03T03:21:22 client: Max connections reached
+2026-04-03T03:21:23 client: Max connections reached
+2026-04-03T03:21:24 client: Max connections reached
+2026-04-03T03:21:25 client: Max connections reached
+2026-04-03T03:21:26 client: Max connections reached
+2026-04-03T03:21:27 client: Max connections reached
+2026-04-03T03:21:28 client: Max connections reached
+2026-04-03T03:21:29 client: Max connections reached
+2026-04-03T03:21:30 client: Max connections reached
+2026-04-03T03:21:30 client: Max connections reached
+2026-04-03T03:21:41 client: Max connections reached
+2026-04-03T03:21:41 client: Max connections reached
+2026-04-03T03:21:42 client: Max connections reached
+2026-04-03T03:21:43 client: Max connections reached
+2026-04-03T03:21:44 client: Max connections reached
+2026-04-03T03:21:45 client: Max connections reached
+2026-04-03T03:21:46 client: Max connections reached
+2026-04-03T03:21:47 client: Max connections reached
+2026-04-03T03:21:48 client: Max connections reached
+2026-04-03T03:21:49 client: Max connections reached
+2026-04-03T03:21:50 client: Max connections reached
+2026-04-03T03:21:51 client: Max connections reached
+2026-04-03T03:21:52 client: Max connections reached
+2026-04-03T03:21:53 client: Max connections reached
+2026-04-03T03:21:54 client: Max connections reached
+2026-04-03T03:21:55 client: Max connections reached
+2026-04-03T03:21:56 client: Max connections reached
+2026-04-03T03:21:57 client: Max connections reached
+2026-04-03T03:21:58 client: Max connections reached
+2026-04-03T03:21:59 client: Max connections reached
+2026-04-03T03:22:00 client: Max connections reached
+2026-04-03T03:22:01 client: Max connections reached
+2026-04-03T03:22:02 client: Max connections reached
+2026-04-03T03:22:03 client: Max connections reached
+2026-04-03T03:22:04 client: Max connections reached
+2026-04-03T03:22:05 client: Max connections reached
+2026-04-03T03:22:06 client: Max connections reached
+2026-04-03T03:22:07 client: Max connections reached
+2026-04-03T03:22:08 client: Max connections reached
+2026-04-03T03:22:09 client: Max connections reached
+2026-04-03T03:22:10 client: Max connections reached
+2026-04-03T03:22:11 client: Max connections reached
+2026-04-03T03:22:12 client: Max connections reached
+2026-04-03T03:22:13 client: Max connections reached
+2026-04-03T03:22:14 client: Max connections reached
+2026-04-03T03:22:15 client: Max connections reached
+2026-04-03T03:22:16 client: Max connections reached
+2026-04-03T03:22:17 client: Max connections reached
+2026-04-03T03:22:18 client: Max connections reached
+2026-04-03T03:22:19 client: Max connections reached
+2026-04-03T03:22:20 client: Max connections reached
+2026-04-03T03:22:21 client: Max connections reached
+2026-04-03T03:22:22 client: Max connections reached
+2026-04-03T03:22:23 client: Max connections reached
+2026-04-03T03:22:24 client: Max connections reached
+2026-04-03T03:22:25 client: Max connections reached
+2026-04-03T03:22:26 client: Max connections reached
+2026-04-03T03:22:27 client: Max connections reached
+2026-04-03T03:22:28 client: Max connections reached
+2026-04-03T03:22:29 client: Max connections reached
+2026-04-03T03:22:30 client: Max connections reached
+2026-04-03T03:22:31 client: Max connections reached
+2026-04-03T03:22:32 client: Max connections reached
+2026-04-03T03:22:44 client: Max connections reached
+2026-04-03T03:22:44 client: Max connections reached
+2026-04-03T03:22:46 client: Max connections reached
+2026-04-03T03:22:47 client: Max connections reached
+2026-04-03T03:22:48 client: Max connections reached
+2026-04-03T03:22:49 client: Max connections reached
+2026-04-03T03:22:50 client: Max connections reached
+2026-04-03T03:22:51 client: Max connections reached
+2026-04-03T03:22:52 client: Max connections reached
+2026-04-03T03:22:53 client: Max connections reached
+2026-04-03T03:22:54 client: Max connections reached
+2026-04-03T03:22:55 client: Max connections reached
+2026-04-03T03:22:56 client: Max connections reached
+2026-04-03T03:22:57 client: Max connections reached
+2026-04-03T03:22:58 client: Max connections reached
+2026-04-03T03:22:59 client: Max connections reached
+2026-04-03T03:23:00 client: Max connections reached
+2026-04-03T03:23:01 client: Max connections reached
+2026-04-03T03:23:02 client: Max connections reached
+2026-04-03T03:23:03 client: Max connections reached
+2026-04-03T03:23:04 client: Max connections reached
+2026-04-03T03:23:04 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x1.
+2026-04-03T03:23:05 client: Max connections reached
+2026-04-03T03:23:06 client: Max connections reached
+2026-04-03T03:23:07 client: Max connections reached
+2026-04-03T03:23:08 client: Max connections reached
+2026-04-03T03:23:09 client: Max connections reached
+2026-04-03T03:23:10 client: Max connections reached
+2026-04-03T03:23:11 client: Max connections reached
+2026-04-03T03:23:12 client: Max connections reached
+2026-04-03T03:23:13 client: Max connections reached
+2026-04-03T03:23:14 client: Max connections reached
+2026-04-03T03:23:15 client: Max connections reached
+2026-04-03T03:23:16 client: Max connections reached
+2026-04-03T03:23:17 client: Max connections reached
+2026-04-03T03:23:18 client: Max connections reached
+2026-04-03T03:23:19 client: Max connections reached
+2026-04-03T03:23:20 client: Max connections reached
+2026-04-03T03:23:21 client: Max connections reached
+2026-04-03T03:23:22 client: Max connections reached
+2026-04-03T03:23:23 client: Max connections reached
+2026-04-03T03:23:24 client: Max connections reached
+2026-04-03T03:23:25 client: Max connections reached
+2026-04-03T03:23:26 client: Max connections reached
+2026-04-03T03:23:27 client: Max connections reached
+2026-04-03T03:23:28 client: Max connections reached
+2026-04-03T03:23:29 client: Max connections reached
+2026-04-03T03:23:30 client: Max connections reached
+2026-04-03T03:23:31 client: Max connections reached
+2026-04-03T03:23:32 client: Max connections reached
+2026-04-03T03:23:33 client: Max connections reached
+2026-04-03T03:23:33 client: Max connections reached
+2026-04-03T03:23:36 client: Max connections reached
+2026-04-03T03:23:36 client: Max connections reached
+2026-04-03T03:23:41 player: played "Given Up [Official Music Video] - Linkin Park(MP3_160K).mp3"
+2026-04-03T03:23:47 client: Max connections reached
+2026-04-03T03:23:48 client: Max connections reached
+2026-04-03T03:23:49 client: Max connections reached
+2026-04-03T03:23:50 client: Max connections reached
+2026-04-03T03:23:51 client: Max connections reached
+2026-04-03T03:23:52 client: Max connections reached
+2026-04-03T03:23:53 client: Max connections reached
+2026-04-03T03:23:54 client: Max connections reached
+2026-04-03T03:23:55 client: Max connections reached
+2026-04-03T03:23:56 client: Max connections reached
+2026-04-03T03:23:57 client: Max connections reached
+2026-04-03T03:23:58 client: Max connections reached
+2026-04-03T03:23:59 client: Max connections reached
+2026-04-03T03:24:00 client: Max connections reached
+2026-04-03T03:24:01 client: Max connections reached
+2026-04-03T03:24:02 client: Max connections reached
+2026-04-03T03:24:03 client: Max connections reached
+2026-04-03T03:24:04 client: Max connections reached
+2026-04-03T03:24:05 client: Max connections reached
+2026-04-03T03:24:06 client: Max connections reached
+2026-04-03T03:24:07 client: Max connections reached
+2026-04-03T03:24:08 client: Max connections reached
+2026-04-03T03:24:09 client: Max connections reached
+2026-04-03T03:24:11 client: Max connections reached
+2026-04-03T03:24:12 client: Max connections reached
+2026-04-03T03:24:13 client: Max connections reached
+2026-04-03T03:24:14 client: Max connections reached
+2026-04-03T03:24:15 client: Max connections reached
+2026-04-03T03:24:16 client: Max connections reached
+2026-04-03T03:24:17 client: Max connections reached
+2026-04-03T03:24:18 client: Max connections reached
+2026-04-03T03:24:20 client: Max connections reached
+2026-04-03T03:24:21 client: Max connections reached
+2026-04-03T03:24:23 client: Max connections reached
+2026-04-03T03:24:24 client: Max connections reached
+2026-04-03T03:24:25 client: Max connections reached
+2026-04-03T03:24:27 client: Max connections reached
+2026-04-03T03:24:28 client: Max connections reached
+2026-04-03T03:24:29 client: Max connections reached
+2026-04-03T03:24:31 client: Max connections reached
+2026-04-03T03:24:32 client: Max connections reached
+2026-04-03T03:24:33 client: Max connections reached
+2026-04-03T03:24:34 client: Max connections reached
+2026-04-03T03:24:34 client: Max connections reached
+2026-04-03T03:24:36 client: Max connections reached
+2026-04-03T03:24:36 client: Max connections reached
+2026-04-03T03:24:38 client: Max connections reached
+2026-04-03T03:24:38 client: Max connections reached
+2026-04-03T03:26:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Unknown cover type: 0x1.
+2026-04-03T03:27:03 client: Max connections reached
+2026-04-03T03:27:03 client: Max connections reached
+2026-04-03T03:27:05 client: Max connections reached
+2026-04-03T03:27:06 client: Max connections reached
+2026-04-03T03:27:07 client: Max connections reached
+2026-04-03T03:27:08 client: Max connections reached
+2026-04-03T03:27:09 client: Max connections reached
+2026-04-03T03:27:10 client: Max connections reached
+2026-04-03T03:27:12 client: Max connections reached
+2026-04-03T03:27:13 client: Max connections reached
+2026-04-03T03:27:14 client: Max connections reached
+2026-04-03T03:27:15 client: Max connections reached
+2026-04-03T03:27:16 client: Max connections reached
+2026-04-03T03:27:17 client: Max connections reached
+2026-04-03T03:27:18 client: Max connections reached
+2026-04-03T03:27:19 client: Max connections reached
+2026-04-03T03:27:20 client: Max connections reached
+2026-04-03T03:27:20 player: played "In The End [Official HD Music Video] - Linkin Park(M4A_128K).m4a"
+2026-04-03T03:27:21 client: Max connections reached
+2026-04-03T03:27:22 client: Max connections reached
+2026-04-03T03:27:23 client: Max connections reached
+2026-04-03T03:27:24 client: Max connections reached
+2026-04-03T03:27:25 client: Max connections reached
+2026-04-03T03:27:26 client: Max connections reached
+2026-04-03T03:27:27 client: Max connections reached
+2026-04-03T03:27:28 client: Max connections reached
+2026-04-03T03:27:29 client: Max connections reached
+2026-04-03T03:27:30 client: Max connections reached
+2026-04-03T03:27:31 client: Max connections reached
+2026-04-03T03:27:32 client: Max connections reached
+2026-04-03T03:27:33 client: Max connections reached
+2026-04-03T03:27:34 client: Max connections reached
+2026-04-03T03:27:35 client: Max connections reached
+2026-04-03T03:27:36 client: Max connections reached
+2026-04-03T03:27:37 client: Max connections reached
+2026-04-03T03:27:38 client: Max connections reached
+2026-04-03T03:27:39 client: Max connections reached
+2026-04-03T03:27:40 client: Max connections reached
+2026-04-03T03:27:41 client: Max connections reached
+2026-04-03T03:27:42 client: Max connections reached
+2026-04-03T03:27:43 client: Max connections reached
+2026-04-03T03:27:44 client: Max connections reached
+2026-04-03T03:27:45 client: Max connections reached
+2026-04-03T03:27:46 client: Max connections reached
+2026-04-03T03:27:47 client: Max connections reached
+2026-04-03T03:27:48 client: Max connections reached
+2026-04-03T03:27:49 client: Max connections reached
+2026-04-03T03:27:50 client: Max connections reached
+2026-04-03T03:27:51 client: Max connections reached
+2026-04-03T03:27:52 client: Max connections reached
+2026-04-03T03:27:53 client: Max connections reached
+2026-04-03T03:27:54 client: Max connections reached
+2026-04-03T03:27:55 client: Max connections reached
+2026-04-03T03:28:06 client: Max connections reached
+2026-04-03T03:28:06 client: Max connections reached
+2026-04-03T03:28:07 client: Max connections reached
+2026-04-03T03:28:08 client: Max connections reached
+2026-04-03T03:28:09 client: Max connections reached
+2026-04-03T03:28:10 client: Max connections reached
+2026-04-03T03:28:11 client: Max connections reached
+2026-04-03T03:28:12 client: Max connections reached
+2026-04-03T03:28:13 client: Max connections reached
+2026-04-03T03:28:14 client: Max connections reached
+2026-04-03T03:28:15 client: Max connections reached
+2026-04-03T03:28:16 client: Max connections reached
+2026-04-03T03:28:17 client: Max connections reached
+2026-04-03T03:28:18 client: Max connections reached
+2026-04-03T03:28:19 client: Max connections reached
+2026-04-03T03:28:20 client: Max connections reached
+2026-04-03T03:28:21 client: Max connections reached
+2026-04-03T03:28:22 client: Max connections reached
+2026-04-03T03:28:23 client: Max connections reached
+2026-04-03T03:28:24 client: Max connections reached
+2026-04-03T03:28:25 client: Max connections reached
+2026-04-03T03:28:26 client: Max connections reached
+2026-04-03T03:28:27 client: Max connections reached
+2026-04-03T03:28:28 client: Max connections reached
+2026-04-03T03:28:29 client: Max connections reached
+2026-04-03T03:28:30 player: played "In The End [Official HD Music Video] - Linkin Park(M4A_128K).m4a"
+2026-04-03T03:28:30 client: Max connections reached
+2026-04-03T03:28:31 client: Max connections reached
+2026-04-03T03:28:32 client: Max connections reached
+2026-04-03T03:28:33 client: Max connections reached
+2026-04-03T03:28:34 client: Max connections reached
+2026-04-03T03:28:35 client: Max connections reached
+2026-04-03T03:28:36 client: Max connections reached
+2026-04-03T03:28:37 client: Max connections reached
+2026-04-03T03:28:38 client: Max connections reached
+2026-04-03T03:28:39 client: Max connections reached
+2026-04-03T03:28:40 client: Max connections reached
+2026-04-03T03:28:41 client: Max connections reached
+2026-04-03T03:28:42 client: Max connections reached
+2026-04-03T03:28:43 client: Max connections reached
+2026-04-03T03:28:44 client: Max connections reached
+2026-04-03T03:28:46 client: Max connections reached
+2026-04-03T03:28:47 client: Max connections reached
+2026-04-03T03:28:48 client: Max connections reached
+2026-04-03T03:28:49 client: Max connections reached
+2026-04-03T03:28:50 client: Max connections reached
+2026-04-03T03:28:51 client: Max connections reached
+2026-04-03T03:28:52 client: Max connections reached
+2026-04-03T03:28:53 client: Max connections reached
+2026-04-03T03:28:54 client: Max connections reached
+2026-04-03T03:28:55 client: Max connections reached
+2026-04-03T03:28:56 client: Max connections reached
+2026-04-03T03:28:57 client: Max connections reached
+2026-04-03T03:28:57 client: Max connections reached
+2026-04-03T03:30:15 player: played "Linkin Park - Lying From You (Official Audio)(MP3_160K).mp3"
+2026-04-03T03:31:25 player: played "Linkin Park - Lying From You (Official Audio)(MP3_160K).mp3"
+2026-04-03T03:32:00 player: played "New Divide [Official Music Video] - Linkin Park(MP3_160K).mp3"
+2026-04-03T03:32:00 player: played "New Divide [Official Music Video] - Linkin Park(MP3_160K).mp3"
+2026-04-03T03:38:07 player: played "Somewhere I Belong (Official Music Video) [4K UPGRADE] – Linkin Park(MP3_160K).mp3"
+2026-04-03T03:41:35 player: played "What I_ve Done [Official Music Video] - Linkin Park(MP3_160K).mp3"
