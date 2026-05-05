@@ -24,14 +24,14 @@ mute=Volume Mute,Volume Mute,Silenciar
 
 [ksmserver]
 Halt Without Confirmation=,,Apagar sin confirmación
-Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Lock Session
+Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,Bloquear la sesión
 Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Mostrar pantalla de cierre de sesión
 Log Out Without Confirmation=,,Cerrar sesión sin confirmación
 LogOut=,,Cerrar sesión
 Reboot=,,Reiniciar
 Reboot Without Confirmation=,,Reiniciar sin confirmación
 Shut Down=,,Apagar
-_k_friendly_name=Session Management
+_k_friendly_name=Gestión de la sesión
 
 [kwin]
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Activar la ventana que necesite atención
@@ -80,7 +80,7 @@ KrohnkiteTileLayout=,none,Krohnkite: Tile Layout
 KrohnkiteToggleFloat=Meta+F,none,Krohnkite: Toggle Float
 KrohnkiteTreeColumnLayout=,none,Krohnkite: Three Column Layout
 KrohnkitegrowWidth=Meta+Ctrl+L,none,Krohnkite: Grow Width
-KrohnkitetoggleDock=,none,Krohnkite: Toggle Dock
+KrohnkitetoggleDock=Meta+Alt+F,none,Krohnkite: Toggle Dock
 Move Tablet to Next LogicalOutput=none,none,Mover la tableta a la siguiente salida
 MoveMouseToCenter=Meta+F6,Meta+F6,Mover ratón al centro
 MoveMouseToFocus=Meta+F5,Meta+F5,Mover ratón hasta el foco
@@ -309,7 +309,3 @@ _launch=Meta+S
 
 [services][org.kde.plasma.emojier.desktop]
 _launch=Meta+Ctrl+Alt+Shift+Space
-
-[services][org.kde.spectacle.desktop]
-CurrentMonitorScreenShot=
-OpenWithoutScreenshot=
