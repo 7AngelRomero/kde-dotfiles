@@ -2,11 +2,17 @@
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
     "logo": {
-        "type": "small",
+        "type": "kitty",
+        "source": "/home/justblind/Imágenes/Auto posting/Shotukou/7’s Day celebration in Osaka, 2001.jpg",
+        "width": 76,
+        "height": 25,
         "padding": {
-            "top": 1
-        }
-    },
+            "top": 3,
+            "left": 5,
+            "right": 5,
+            "buttom": 5,
+            }
+        },
     "display": {
         "separator": " "
     },
@@ -16,63 +22,119 @@
             "type": "custom"
         },
         {
-            "key": "│ {#31} user    {#keys}│",
-            "type": "title",
-            "format": "{user-name}"
+            "key": "│ {#90}󰌢 Host    {#keys}│",
+            "type": "host"
         },
         {
-            "key": "│ {#32}󰇅 hname   {#keys}│",
-            "type": "title",
-            "format": "{host-name}"
-        },
-        {
-            "key": "│ {#33}󰅐 uptime  {#keys}│",
-            "type": "uptime"
-        },
-        {
-            "key": "│ {#34}󰃭 age     {#keys}│",
-            "type": "command",
-            "shell": "/bin/sh",
-            "text": "echo $(($(($(date +%s) - $(stat -c %W /))) / 86400)) days"
-        },
-        {
-            "key": "│ {#34}{icon} distro  {#keys}│",
-            "type": "os"
-        },
-        {
-            "key": "│ {#35} kernel  {#keys}│",
-            "type": "kernel"
-        },
-        {
-            "key": "│ {#36}󰇄 desktop {#keys}│",
-            "type": "de"
-        },
-        {
-            "key": "│ {#31} term    {#keys}│",
-            "type": "terminal"
-        },
-        {
-            "key": "│ {#32} shell   {#keys}│",
-            "type": "shell"
-        },
-        {
-            "key": "│ {#33}󰏖 pacman  {#keys}│",
-            "type": "packages",
-            "format": "{pacman}"
-        },
-        {
-            "key": "│ {#33}󰍛 cpu     {#keys}│",
+            "key": "│ {#31}󰍛 Cpu     {#keys}│",
             "type": "cpu",
             "showPeCoreCount": true
         },
         {
-            "key": "│ {#34}󰉉 disk    {#keys}│",
+            "key": "│ {#32}󰾲 Gpu     {#keys}│",
+            "type": "gpu"
+        },
+        {
+            "key": "│ {#33}󰉉 Disk    {#keys}│",
             "type": "disk",
             "folders": "/"
         },
         {
-            "key": "│ {#35} memory  {#keys}│",
+            "key": "│ {#34} Memory  {#keys}│",
             "type": "memory"
+        },
+        {
+            "key": "│ {#35}󰓡 Swap    {#keys}│",
+            "type": "swap",
+        },
+        {
+            "key": "│ {#36}󰍹 Display {#keys}│",
+            "type": "display",
+            "compactType": "original-with-refresh-rate"
+        },
+        {
+            "key": "│ {#37}󰃞 Bright  {#keys}│",
+            "type": "brightness",
+        },
+        {
+            "key": "│ {#38} Battery {#keys}│",
+            "type": "battery",
+        },
+        {
+            "key": "│ {#37} Audio   {#keys}│",
+            "type": "sound",
+        },
+        {
+            "key": "├───────────┤",
+            "type": "custom"
+        },
+        {
+            "key": "│ {#36} Shell   {#keys}│",
+            "type": "shell"
+        },
+        {
+            "key": "│ {#35} Term    {#keys}│",
+            "type": "terminal"
+        },
+        {
+            "key": "│ {#34} Font    {#keys}│",
+            "type": "terminalfont",
+        },
+        {
+            "key": "│ {#33}󰧨 Login   {#keys}│",
+            "type": "lm",
+        },
+        {
+            "key": "│ {#32}󰇄 Desktop {#keys}│",
+            "type": "de"
+        },
+        {
+            "key": "│ {#31} WM      {#keys}│",
+            "type": "wm",
+        },
+        {
+            "key": "│ {#32}󰉼 Theme   {#keys}│",
+            "type": "theme",
+        },
+        {
+            "key": "│ {#33}󰸉 WP      {#keys}│",
+            "type": "wallpaper",
+        },
+        {
+            "key": "├───────────┤",
+            "type": "custom"
+        },
+        {
+            "key": "│ {#34} User    {#keys}│",
+            "type": "title",
+            "format": "{user-name}"
+        },
+        {
+            "key": "│ {#35}󰇅 Hname   {#keys}│",
+            "type": "title",
+            "format": "{host-name}"
+        },
+        {
+            "key": "│ {#36}{icon} Distro  {#keys}│",
+            "type": "os"
+        },
+        {
+            "key": "│ {#37} Kernel  {#keys}│",
+            "type": "kernel"
+        },
+        {
+            "key": "│ {#38}󰏖 Pkgs    {#keys}│",
+            "type": "packages"
+        },
+        {
+            "key": "│ {#37}󰅐 Uptime  {#keys}│",
+            "type": "uptime"
+        },
+        {
+            "key": "│ {#36}󰃭 Age     {#keys}│",
+            "type": "command",
+            "shell": "/bin/sh",
+            "text": "echo $(($(($(date +%s) - $(stat -c %W /))) / 86400)) days"
         },
         {
             "key": "├───────────┤",
